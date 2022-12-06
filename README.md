@@ -1,6 +1,6 @@
 # PythonProject
 
-• Data pre processing : We are going to use several
+• Data pre processing : We use several
 methods to detect and delete/replace the
 outliers in our dataset, in order to apply the
 machine learning models in a clean dataset.
